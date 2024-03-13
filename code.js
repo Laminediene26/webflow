@@ -1,3 +1,4 @@
+// TypeScript
 var typing = new Typed(".text", {
   strings: ["", "Graphiste Designer.", "UX - UI Designer.", "Webmaster.", "Photographe."],
   typeSpeed: 100,
